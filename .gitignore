@@ -1,0 +1,6 @@
+*.log
+//ye normarly saari log files ko ignore krne k kaam me aata h
+/dir/  
+//agr apn esme dir/ likhte h to poori dir file ignore ho jaegi
+static/dir/
+db.accdb
